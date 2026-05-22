@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Ваша аватарка -->
-  <img src="https://github.com/Alex-MrN1ckname.png" width="200" style="border-radius: 50%">
+  <img src="https://github.com/imya-familiya.png" width="200" style="border-radius: 50%">
   
   <!-- Анимированный текст -->
   <h1> 
